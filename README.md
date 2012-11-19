@@ -1,4 +1,4 @@
-Cococo
-======
+coco
+====
 
-Latest repo for coco game
+a game about coco
